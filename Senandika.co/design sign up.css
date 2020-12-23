@@ -1,0 +1,93 @@
+body{
+	font-family: quicksand, arial, sans-serif;
+	font-size: 18px;
+	background-color: white;
+	border:0;
+    margin:0;
+}
+div .img .table1 .table2{
+	display: inline-block;
+}
+.table1 { /* # untuk id . untuk class*/
+	font-size: 20px;
+	position: absolute;
+	left: 900px;
+	top: 20px;
+	margin-left: 55px;
+}
+.table1 a {
+	text-decoration: none;
+	color: #E58F8F;
+	text-shadow: 0px 2px 2px;
+}
+img {
+	width: 420px;
+	height: 750px;
+	left: 0px;
+	top: 0px;
+	float: left;
+}
+.table2 {
+	margin-top: 200px;
+	margin-bottom: 0%;
+	margin-left: 0px;
+	margin-right: 0px;
+	position: relative;
+	width: 1250px;
+	text-align: center;
+	object-position: center;
+}
+
+input[type=text], input[type=password] {
+  width: 35%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  border: 3px solid #FF8282;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.button{
+	background-color: #FF8282;
+ 	border-radius: 22px;
+  	color: black;
+  	padding: 6px;
+	align-content: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 0%;
+	margin-left: -280px;
+	margin-right: 0px;
+  	cursor: pointer;
+  	top: 50%;
+	left: 50%;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	position: relative;
+}
+
+.konfirm{
+	margin-left: -270px;
+}
+
+.password{
+	margin-left: -340px;
+}
+.email{
+	margin-left: -380px;
+}
+
+.bold{
+	font-family: Quicksand;
+	font-size: 18px;
+}

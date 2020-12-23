@@ -1,0 +1,156 @@
+
+/* navbar */
+body{
+	font-family: quicksand, arial, sans-serif;
+	border: 0;
+    margin: 0;
+}
+.btn{
+	background-color: white;
+ 	border-radius: 18px;
+  	color: black;
+  	padding: 1px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 17px;
+  	margin: 20px 2px 0px 170px;
+  	cursor: pointer;
+  	top: 50%;
+    left: 50%;
+    height: 38px;
+    width: 80px;
+  	
+}
+
+.navbar-brand {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 36px;
+    color: black;
+    margin-left: -45px;
+   }
+  
+   .nav-link{
+    margin-right: 0px;
+    font-size: 18px;
+    color: black;
+    margin-left: 20px;
+   }
+   .lead{
+     font-size: 24px;
+     font-family: 'Quicksand', sans-serif; ;
+   }
+   .navbar {
+     background: #90E0EF;
+     width: 1273px;
+     height:80px;
+   }
+   .nav-item{
+       color: black;
+       margin-left: 80px;
+   }
+.sampul{
+    width: 1270px;
+    height: 500px;
+    margin-left: -81px;
+    padding-right: -5px;
+    margin-right: -18px;
+}
+.home{
+margin-left: 5px;
+margin-right: 10px;
+margin-top: 20px;
+font-size: 17px;
+}
+.us{
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 20px;
+    padding-left: -30px;
+    font-size: 17px;
+    position: absolute;
+}
+.features{
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 17px;
+}
+.contact{
+    margin-left: 55px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 17px;
+    position: absolute;
+}
+
+.fitur{
+    text-align: center;
+    background-color: white;
+    height: 500px;
+    width: 1266.5px;
+    margin-left: -80px;
+    padding-left: 40px;
+    padding-top: 80px;
+    font-size: 20px;
+   
+}
+.kontak{
+    background-color: #CAF5FF;
+    height: 500px;
+    width: 1280px;
+    margin-left: -80px;
+    text-align: center;
+    padding-top: 200px;
+    padding: -20px;
+    font-size: 20px;
+}
+.about{
+    text-align: center;
+    background-color: #CAF5FF;
+    height: 500px;
+    width: 1270px;
+    margin-left: -80px;
+    padding-top: 130px;
+    font-size: 20px;
+}
+.pic1{
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+    margin-top: -580px;
+}
+.pic2{
+    width: 150px;
+    height: 150px;
+    margin-top: -580px;
+    margin-left: 110px;
+}
+.pic3{
+    width: 150px;
+    height: 150px;
+    margin-top: -580px;
+}
+.pic4{
+    width: 150px;
+    height: 150px;
+    margin-top: -580px;
+}
+.anonimmm{
+margin-left: -120px;
+padding-left: -20px ;
+margin-top: -10px;
+color: black;
+}
+.friend{
+margin-top: -50px;
+color: black;
+}
+.mental{
+margin-top: 10px;
+color: black;
+}
+.and{
+margin-top: 10px;
+color: black;
+}

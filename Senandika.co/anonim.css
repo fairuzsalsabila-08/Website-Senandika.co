@@ -1,0 +1,260 @@
+body{
+	font-family: quicksand, arial, sans-serif;
+	font-size: 18px;
+	background-color: white;
+	border:0;
+    margin:0;
+}
+.navbar{
+	background-color: #90E0EF;
+	color: black;
+}
+
+.navbar-brand{
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 36px;
+}
+
+.navbar-nav{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+}
+
+.nav-link{
+	color: black;
+}
+
+.anon{
+	margin-top: -3px;
+}
+
+.jumbotron{
+  	background-color: #F6FDFF;
+  	background-size: 60px;
+  	height: 260px;
+  	margin-top: 70px;
+  	margin-bottom: 25px;
+}
+
+.text-center{
+	font-family: 'Quicksand', sans-serif;
+}
+
+.row align-items-start{
+   background:#C6FCFF;
+   text-decoration-color: black;
+   width: 345px;
+   height: 210px;
+}
+
+.alert1{
+	background-color: #C6FCFF;
+	font-family: 'Quicksand', sans-serif;
+	border-radius: 10px;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 45px;
+	margin-bottom: 5px;
+	margin-left: -30px;
+	margin-right: 70px;
+	width: 320px;
+	height: 210px;
+}
+
+.cardform{
+	background-color: #023E8A;
+	border-radius: 10px;
+	width: 1000px;
+	height: 100px;
+	background-position: center;
+	margin-top: 47px;
+	margin-left: 40px;
+	margin-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+.video{
+	margin-left: 460px;
+	margin-top: -35px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 13px;
+}
+
+.foto{
+	margin-top: -98px;
+	margin-left: 380px;
+	color: white;
+	padding-top: 33px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+}
+
+.iconfoto{
+  	margin-top: -65px;
+  	margin-bottom: 20px;
+	  margin-right: 300px;
+	  margin-left: 345px;
+	  width:25px;
+}
+
+.iconvideo{
+  	margin-top: 4px;
+  	margin-bottom: 18px;
+	  width: 30px;
+	  margin-left: 390px;
+}
+
+.gambargaris{
+	margin-top: -80px;
+  	width: 450px;
+}
+
+.terbaru{
+	margin-top: -80px;
+  	margin-left: 20px;
+}
+
+.alertkepribadian{
+	width: 250px;
+	height: 180px;
+	border-radius: 10px;
+	background-color: #9DFAF4;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+	padding-left: 40px;
+	padding-top: 25px;
+	padding-bottom: 5px;
+	padding-right: 30px;
+	margin-right: -50px;
+	margin-left: 0px;
+	margin-top: 45px;
+	text-align: left;
+	text-decoration-color: black;
+}
+
+.row align-items-center{
+	background:#C6FCFF;
+	text-decoration-color: black;
+	width: 345px;
+	height: 167px;
+}
+
+.cardsong{
+	background-color: #C6FCFF;
+	font-family: 'Quicksand', sans-serif;
+	border-radius: 10px;
+	font-size: 14px;
+	object-position: center;
+	padding-top: 10px;
+	padding-bottom: 250px;
+	margin-top: 25px;
+	margin-left: -30px;
+	margin-right: 70px;
+	width: 320px;
+	height: 40px;
+}
+
+.card-img{
+  	margin-top: -50px;
+  	margin-bottom: 100px;
+}
+
+.alertanonim{
+  	background-color: #FCF8EC;
+  	border-radius: 10px;
+  	width: 575px;
+  	height: 280px;
+  	margin-left: 25px;
+  	margin-right: 10px;
+  	margin-top: -100px;
+  	margin-bottom: 10px;
+  	padding-top: 10px;
+  	padding-bottom: 100px ;
+  	padding-right: 20px;
+  	padding-left: 20px;
+  	font-family: 'Quicksand', sans-serif;
+  	font-size: 14px;
+  	text-align: justify;
+}
+
+.alertanonim h5{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.alertanonim p{
+	margin-top: -50px;
+	margin-bottom: 1px;
+	margin-left: 10px;
+}
+
+.profilanon{
+  	width: 35px;
+  	height: 35px;
+  	margin-right: 25px;
+  	margin-top: -2px;
+}
+
+.biemojismile{
+  	margin-left: 12px;
+  	padding-bottom: -50px;
+}
+
+.bithumbsup{
+  	margin-left: 15px;
+  	padding-bottom: -50px;
+}
+
+.bichat{
+  	margin-left: 18px;
+  	padding-bottom: -50px;
+}
+
+.row align-items-end{
+  	background:#C6FCFF;
+  	text-decoration-color: black;
+  	width: 300px;
+  	height: 150px;
+}
+
+.alerthiburan{
+  	background-color: #C6FCFF;
+  	font-family: 'Quicksand', sans-serif;
+  	border-radius: 10px;
+  	font-size: 14px;
+  	padding-top: 10px;
+  	padding-bottom: 100px;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	margin-top: 25px;
+  	margin-left: -30px;
+  	margin-right: 70px;
+  	margin-bottom: 40px;
+  	width: 320px;
+  	height: 100px;
+}
+
+.paint{
+  	float: right;
+  	padding-bottom: 15px;
+  	margin-right: 50px;
+}
+
+.youtube{
+  	padding-bottom: 15px;
+  	margin-left: 30px;
+  	margin-right: -5px;
+}
+
+.spotify{
+  	margin-left: 30px;
+  	margin-right: -10px;
+  	padding-bottom: 18px;
+}
+
+@media (min-width: 1200px){
+	
+}
